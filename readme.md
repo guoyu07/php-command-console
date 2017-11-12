@@ -4,7 +4,7 @@
 
 ## 下载
 
-$ git clone https://github.com/hookover/php-command-console
+$ git clone https://github.com/hookover/php-command-console.git
 
 
 ## 安装依赖
